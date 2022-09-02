@@ -2,7 +2,7 @@
   "name": "phrase_gen",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "pharse_generator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
